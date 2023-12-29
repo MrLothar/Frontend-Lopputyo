@@ -27,5 +27,5 @@ npm install
 npm run dev
 
 
-# Avaa palvelin oletusportilla selaimeen - Nauti!
+# Avaa NoteApp oletusportilla selaimeen - Nauti!
 
