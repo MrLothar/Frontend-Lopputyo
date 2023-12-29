@@ -1,4 +1,5 @@
-IC210417-3002 Frontend 2023 lopputyö - testattu käyttäen Node v20.9.0
+IC210417-3002 Frontend 2023 - 2205541 J.I.
+Testattu käyttäen Node v20.9.0
   - Pahoittelut poiketusta tyylistä
 
 # NoteApp
