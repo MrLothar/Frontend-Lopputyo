@@ -16,7 +16,7 @@ NoteApp on yksinkertainen muistiinpanosovellus, joka mahdollistaa kurssien ja ni
 
 1. Asenna [Node.js](https://nodejs.org/) (mukana tulee myös npm).
 2. Kloonaa tai lataa tämä projekti.
-3. Avaa terminaali ja siirry projektikansion juureen.
+3. Avaa terminaali ja siirry projektikansion juureen (cd Frontend-Lopputyo-main).
 4. Suorita seuraavat komennot:
 
 
